@@ -4,7 +4,7 @@ I will update the intro for the public
 Let's start from the beginning. At that time, in addition to basic DOS, I became familiar with the QuickBasic programming language. This was followed by HTML, CSS and JavaScript garnished with a little PHP.
 I added Adobe Photoshop. Just a little trivia in image editing.
 I thought I would expand my knowledge. In 2018, I was admitted to UWL (University of West London). Last but not least, Freddie Mercury also studied here!
-During my first year at college, I started studying Python. I expanded - I updated my knowledge of HTML, CSS, JavaScript. While learning about Picaxe, I became better acquainted with microcontrollers and microcomputers. Yes, in this case it's the Arduino and the Raspberry Pi, and the modules that can be attached to them. I'm having a lot of fun. One Raspberrymen is running Kali Linux.
+During my first year at university, I started studying Python. I expanded - I updated my knowledge of HTML, CSS, JavaScript. While learning about Picaxe, I became better acquainted with microcontrollers and microcomputers. Yes, in this case it's the Arduino and the Raspberry Pi, and the modules that can be attached to them. I'm having a lot of fun. One Raspberrymen is running Kali Linux.
 Here we also take a step forward. I looked at Suse Linux a long time ago. But then I let go of the thing. With my current studies, Linux has once again come into view.
 Namely Ubuntu and Kali linux. In the first round, I was thinking of machines installed separately. But then I got to know Oracle VM VirtualBox. Well, in this laboratory setting, I released the progs.
 For the sake of curiosity, I also run Raspberry in this environment, for the sake of experimentation.
